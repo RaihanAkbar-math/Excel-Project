@@ -1,4 +1,5 @@
 # Excel Salary Dashboard
+Thanks to Luke Barousse
 
 ## Introduction
 
